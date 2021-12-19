@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\Jonas\code\monte-carlo\monte-carlo\source.cpp(13,23): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  monte-carlo.vcxproj -> C:\Users\Jonas\code\monte-carlo\x64\Debug\monte-carlo.exe
